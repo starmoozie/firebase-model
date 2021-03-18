@@ -1,5 +1,5 @@
 {
-    "name": "starmoozie/firebase_model",
+    "name": "starmoozie/firebase-model",
     "description": "Firebase model connection",
     "type": "library",
     "license": "MIT",
